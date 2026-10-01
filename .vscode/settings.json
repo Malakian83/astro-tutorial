@@ -1,0 +1,7 @@
+{
+    "zenMode.hideStatusBar": true,
+    "explorer.expandSingleFolderWorkspaces": false,
+    "chat.tools.autoExpandFailures": true,
+    "chat.experimental.sessionStateIndicator.enabled": false,
+    "explorer.compactFolders": false
+}
